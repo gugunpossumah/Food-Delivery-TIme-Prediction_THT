@@ -66,7 +66,7 @@ streamlit run app.py
 5. Streamlit akan otomatis menjalankan aplikasi 🚀
 ---
 ## Tampilan Aplikasi
-- HOme
+- Home
 - EDA - Distribusi Waktu
 - Prediksi
 - Evaluasi Model
