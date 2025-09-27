@@ -48,3 +48,28 @@ Aplikasi ini memiliki 4 menu utama:
 ```bash
 git clone https://github.com/username/food-delivery-time-prediction.git
 cd food-delivery-time-prediction
+```
+### 2. Install Dependencies
+```bash
+pip install -r requirement.txt
+```
+### 3. Jalankan Streamlit APp
+```bash
+streamlit run app.py
+```
+---
+## 🌐 Deploy ke Streamlit Cloud
+1. Push repository ini ke GitHub.
+2. Masuk ke Streamlit Cloud.
+3. Hubungkan akun GitHub → pilih repository ini.
+4. Pilih app.py sebagai entry point.
+5. Streamlit akan otomatis menjalankan aplikasi 🚀
+---
+## Tampilan Aplikasi
+- HOme
+- EDA - Distribusi Waktu
+- Prediksi
+- Evaluasi Model
+---
+## ✨ Author
+Saya **Gulbuddin Ikhmatiar Possumah** membuat project ini sebagai bagian dari pembelajaran mandiri saya dalam _Machine Learning & Data Science._
